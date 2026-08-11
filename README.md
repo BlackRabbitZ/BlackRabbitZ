@@ -8,8 +8,6 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 
 **Inspect. Harden. Defend.**
 
-</div>
-
 ---
 
 ## Focus
@@ -19,7 +17,14 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 
 ## Technologies
 
-`Python` • `PowerShell` • `Bash` • `Linux` • `Windows` • `Docker` • `FastAPI` • `GitHub Actions`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -58,8 +63,6 @@ I prefer security tools that explain **what was found, why it matters and how it
 **Apply:** [discord.gg/XX4E7FtXWk](https://discord.gg/XX4E7FtXWk)
 
 ---
-
-<div align="center">
 
 ### 🐇 BlackRabbitZ
 
