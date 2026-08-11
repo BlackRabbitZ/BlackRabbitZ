@@ -23,6 +23,16 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 
 ---
 
+## Systems
+
+**Workstations & Lab**  
+`Windows 11` • `Qubes OS` • `Arch Linux` • `Kali Linux` • `Kali Purple` • `Parrot OS` • `Linux Mint` • `BlackArch`
+
+**Server Infrastructure**  
+`AlmaLinux` • `Proxmox`
+
+---
+
 ## Philosophy
 
 **Find weaknesses → Understand the risk → Harden the system → Reduce exposure → Protect privacy**
