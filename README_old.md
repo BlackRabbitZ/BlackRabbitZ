@@ -13,37 +13,21 @@ hardening, privacy and defensive analysis.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Focus
 
-### Focus
+- Ethical Hacking
+- System Hardening
+- Privacy
+- Network Security
+- Defensive Security
+- Security Auditing
+- DNS & Infrastructure
 
-`Ethical Hacking`  
-`System Hardening`  
-`Privacy`  
-`Network Security`  
-`Defensive Security`  
-`Security Auditing`  
-`DNS & Infrastructure`
+---
 
-</td>
-<td width="50%" valign="top">
+## Technologies
 
-### Technologies
-
-`Python`  
-`PowerShell`  
-`Bash`  
-`Linux`  
-`Windows`  
-`Docker`  
-`FastAPI`  
-`GitHub Actions`
-
-</td>
-</tr>
-</table>
+`Python` • `PowerShell` • `Bash` • `Linux` • `Windows` • `Docker` • `FastAPI` • `GitHub Actions`
 
 ---
 
@@ -61,26 +45,19 @@ I prefer security tools that explain **what was found, why it matters and how it
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Language
 
-### Language
+My primary language is **German (Deutsch)**.
 
-Primary language: **German (Deutsch)**
+---
 
-</td>
-<td width="50%" valign="top">
+## Discord
 
-### Discord
+My Discord community is **German-speaking** and access is **application-only**.
 
-German-speaking community with **application-only access**.
+If you are interested in joining, you can apply here:
 
 **[Join / Apply via Discord](https://discord.gg/XX4E7FtXWk)**
-
-</td>
-</tr>
-</table>
 
 ---
 
