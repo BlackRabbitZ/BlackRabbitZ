@@ -51,15 +51,24 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 **Server Infrastructure**
 
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ---
 
 ## Philosophy
 
-**Find weaknesses → Understand the risk → Harden the system → Reduce exposure → Protect privacy**
+**Security is not about adding more tools. It is about understanding your systems, reducing unnecessary trust and minimizing every possible attack surface.**
 
-I prefer security tools that explain **what was found, why it matters and how it can be improved.**
+**Harden every layer. Control your network. Limit exposure. Preserve anonymity. Protect privacy.**
+
+A secure system should reveal as little as possible, trust only what is necessary and give you full control over your own infrastructure.
+
+**Know your system. Control your network. Harden your infrastructure. Protect your identity. Preserve your privacy.**
+
+> **“I have nothing to hide — but my personal data is power over me, and that is power I choose to keep.”**
+
+`Understand. Minimize. Harden. Isolate. Protect.`
 
 ---
 
