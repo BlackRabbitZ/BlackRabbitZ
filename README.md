@@ -65,8 +65,8 @@ A secure system should reveal as little as possible, trust only what is necessar
 ---
 ## Info
 
-**Language:** German (Deutsch)
-**Discord:** German-speaking community • application-only access
+**Language:** German (Deutsch)<br>
+**Discord:** German-speaking community • application-only access<br>
 **Apply:** [discord.gg/XX4E7FtXWk](https://discord.gg/XX4E7FtXWk)
 
 ---
