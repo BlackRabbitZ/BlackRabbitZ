@@ -33,7 +33,7 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 ---
 ## Systems
 
-**Workstations & Lab**
+**Workstations & Lab**<br>
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Qubes OS](https://img.shields.io/badge/Qubes%20OS-3874D8?style=flat-square&logo=qubesos&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
@@ -42,8 +42,7 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=flat-square)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-86BE43?style=flat-square&logo=linuxmint&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=flat-square)
-**Server Infrastructure**
-
+**Server Infrastructure**<br>
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
