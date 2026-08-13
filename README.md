@@ -41,7 +41,7 @@ Building practical security tools focused on **hardening**, **privacy** and **de
 ![Kali Purple](https://img.shields.io/badge/Kali%20Purple-6F42C1?style=flat-square&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=flat-square)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-86BE43?style=flat-square&logo=linuxmint&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=flat-square)
+![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=flat-square)<br>
 **Server Infrastructure**<br>
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
