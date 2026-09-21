@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/BlackRabbitZ/Pi-Hole-Readme">
+        <a href="https://github.com/BlackRabbitZ/Pi-Hole-Projects">
           Pi-Hole-Readme
         </a>
       </td>
