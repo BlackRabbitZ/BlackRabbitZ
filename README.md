@@ -6,10 +6,10 @@
 
 ---
 
-## 📦 Projects
+<h2 align="center">📦 Projects</h2>
 
 | Project | Description | Focus |
-|---|---|---|
+|:---:|:---:|:---:|
 | [Pi-Hole-Readme](https://github.com/BlackRabbitZ/Pi-Hole-Readme) | Overview of my Pi-hole projects | DNS • Privacy • Hardening |
 | [Onion-Projects](https://github.com/BlackRabbitZ/Onion-Projects) | Overview of my Tor and Onion projects | Tor • Privacy • E2EE |
 
