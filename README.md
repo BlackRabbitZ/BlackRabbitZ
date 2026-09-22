@@ -58,3 +58,11 @@
 **Apply:** [discord.gg/XX4E7FtXWk](https://discord.gg/XX4E7FtXWk)
 
 </div>
+
+## 📦 Projects
+
+| Project | Description | Focus |
+| :---: | :---: | :---: |
+| [Pi-Hole-Projects](...) | Overview of my Pi-hole projects | DNS • Privacy • Hardening |
+| [Onion-Projects](...) | Overview of my Tor and Onion projects | Tor • Privacy • E2EE |
+| [Virtualization & Sandboxing](...) | Hardened and isolated virtualization environments | KVM/QEMU • Hyper-V • VirtualBox • Sandboxing |
